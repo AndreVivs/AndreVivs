@@ -1,7 +1,7 @@
 ### Hi there 👋 I´m Andy
 
 
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andrevivs&show_icons=true&theme=merko" alt="table" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andrevivs&show_icons=true&theme=gruvbox" alt="table" />
 <!--
 **AndreVivs/AndreVivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
