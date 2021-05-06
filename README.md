@@ -4,7 +4,7 @@
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andrevivs&show_icons=true&theme=highcontrast" alt="Andy Stats" />
 
 
-<img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevivs&layout=compact" alt="Andy languages"/>
+<img height=120 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevivs&layout=compact" alt="Andy languages"/>
 <!--
 **AndreVivs/AndreVivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
