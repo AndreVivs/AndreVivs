@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-   <a href="https://open.spotify.com/playlist/1H2fqsVAgjzxUyAlftg2Lt"> <img src="https://media.giphy.com/media/alxwuUFuJmVEJb3PDg/giphy.gif" alt="spotify" width="50" height="50"/> </a>
+    <!-- <a href="https://open.spotify.com/playlist/1H2fqsVAgjzxUyAlftg2Lt"> <img src="https://media.giphy.com/media/alxwuUFuJmVEJb3PDg/giphy.gif" alt="spotify" width="50" height="50"/> </a> -->
    <a href="https://github.com/AndreVivs"> <img src="https://media.giphy.com/media/S9uGhnoqERaHsHlf7n/giphy.gif" alt="Projects" width="100" height="100"/> </a>
    <a href="https://www.linkedin.com/in/andrevivas/"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="50"        height="50"/> </a>
 </div>
