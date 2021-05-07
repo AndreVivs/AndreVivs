@@ -1,5 +1,6 @@
 <div align="center">
    <h2>HEY THERE! :herb: I´M ANDY </h2>
+   <a href="https://www.linkedin.com/in/andrevivas/"> <img src="https://media.giphy.com/media/S9uGhnoqERaHsHlf7n/giphy.gif" alt="html5" width="50" height="50"/> </a>
 </div>
 
 <div align="center">
