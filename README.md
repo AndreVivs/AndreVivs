@@ -1,7 +1,7 @@
 <div align="center">
    <h2>HEY THERE! :herb: I´M ANDY </h2>
-   
 </div>
+
 <div align="center">
    <h3> LANGUAGES AND TOOLS </h3>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="50" height="50"/> </a>
@@ -12,6 +12,7 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
 </div>
+
 <div align="center">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andrevivs&show_icons=true&theme=highcontrast" alt="Andy Stats" /> 
 </div>
