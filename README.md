@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>- HEY THERE! I´M :herb: ANDY -</h2>
+   <h2>- HEY THERE! :herb: I´M ANDY -</h2>
 </div>
 <div align="center">
    <h3>- LANGUAGES AND TOOLS -</h3>
