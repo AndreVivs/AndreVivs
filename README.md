@@ -1,6 +1,16 @@
 <div align="center">
-   <h2>HEY THERE! :herb: I´M ANDY </h2><a href="https://www.linkedin.com/in/andrevivas/"> <img src="https://media.giphy.com/media/S9uGhnoqERaHsHlf7n/giphy.gif" alt="LinkedIn" width="100" height="100"/> </a>
-   </div>
+   <h2>HEY THERE! :herb: I´M ANDY </h2>
+</div>
+
+<br/>
+
+<div>
+   <a href="https://www.linkedin.com/in/andrevivas/"> <img src="https://giphy.com/stickers/transparent-HQTYdpx1yhxWpugAi2" alt="LinkedIn" width="100"        height="100"/> </a>
+   <a href="https://github.com/AndreVivs"> <img src="https://media.giphy.com/media/S9uGhnoqERaHsHlf7n/giphy.gif" alt="Projects" width="100" height="100"/> </a>
+   <a href="https://open.spotify.com/playlist/1H2fqsVAgjzxUyAlftg2Lt"> <img src="https://giphy.com/stickers/MRNT-transparent-spotify-casavio-alxwuUFuJmVEJb3PDg" alt="spotify" width="100" height="100"/> </a>
+</div>
+
+<br/>
 
 <div align="center">
    <h3> LANGUAGES AND TOOLS </h3>
@@ -13,23 +23,8 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
 </div>
 
+<br/>
+
 <div align="center">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andrevivs&show_icons=true&theme=highcontrast" alt="Andy Stats" /> 
 </div>
-
-
-
-<!--
-**AndreVivs/AndreVivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
