@@ -1,5 +1,6 @@
 <div align="center">
    <h2>- HEY THERE! :herb: I´M ANDY -</h2>
+   <img src="https://giphy.com/gifs/cute-high-five-100QWMdxQJzQC4" alt="html5" width="50" height="50"/>
 </div>
 <div align="center">
    <h3>- LANGUAGES AND TOOLS -</h3>
