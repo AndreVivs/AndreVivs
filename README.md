@@ -21,7 +21,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andrevivs&show_icons=true&theme=highcontrast" alt="Andy Stats" /> 
