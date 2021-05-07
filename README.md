@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>- HEY THERE I´M ANDY -</h1>
+   <h2>- HEY THERE I´M ANDY -</h2>
 </div>
 <div align="center">
    <h3>- LANGUAGES AND TOOLS -</h3>
