@@ -1,5 +1,5 @@
-### Hi there 👋 I´m Andy
-
+<div align="center">
+   <h1>- HEY THERE I´M ANDY -</h1>
 </div>
 <div align="center">
    <h3>- LANGUAGES AND TOOLS -</h3>
